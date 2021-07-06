@@ -1,0 +1,5 @@
+name=input("what is you name: ")
+color=input("what is your favorite color: ")
+age=input("when did you were born: ")
+result= 2021-int(age)
+print(name,"is",result,"years old and likes ",color)
